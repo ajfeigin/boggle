@@ -1,0 +1,5 @@
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Matrix\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Matrix\obj\Debug\Matrix.Form1.resources
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Matrix\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Matrix\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Matrix\obj\Debug\Matrix.exe.licenses

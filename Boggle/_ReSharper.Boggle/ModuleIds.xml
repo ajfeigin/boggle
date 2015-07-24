@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="C6959941-93CB-4CF1-9784-EC77843D0EBA" ModuleId="Boggle" />
+  <Module PersistentId="C6191038-B9F6-46BE-9239-4550B2E08D05" ModuleId="Mommo.Data" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="mscorlib" />
+  <Module PersistentId="B6813448-FCE2-429C-81B5-9722FEA839B8" ModuleId="LoreSoft.MathExpressions" />
+</Modules>

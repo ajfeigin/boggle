@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="C6959941-93CB-4CF1-9784-EC77843D0EBA" ModuleId="numberBoggle" />
+  <Module PersistentId="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System" />
+  <Module PersistentId="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing" />
+  <Module PersistentId="C6191038-B9F6-46BE-9239-4550B2E08D05" ModuleId="Mommo.Data" />
+  <Module PersistentId="C51EB82A-6AC7-4850-B23D-D44532807BFE" ModuleId="Matrix" />
+</Modules>

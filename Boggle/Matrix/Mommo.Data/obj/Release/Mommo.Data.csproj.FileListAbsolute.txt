@@ -1,0 +1,3 @@
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\bin\Release\Mommo.Data.dll
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\obj\Release\ResolveAssemblyReference.cache
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\obj\Release\Mommo.Data.dll

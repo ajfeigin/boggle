@@ -1,0 +1,642 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">False</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmChooseGame.Designer.cs" caret="0" fromTop="0" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmChooseGame.cs" caret="490" fromTop="17" />
+      <File id="C6191038-B9F6-46BE-9239-4550B2E08D05/f:ArrayDataView.cs" caret="793" fromTop="21" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:Tree.cs" caret="2218" fromTop="36" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:FormBoggleParent.Designer.cs" caret="0" fromTop="0" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:FrmWordBoggle.Designer.cs" caret="3354" fromTop="19" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:Program.cs" caret="543" fromTop="19" />
+      <File id="C6191038-B9F6-46BE-9239-4550B2E08D05/f:AssemblyInfo.cs" caret="584" fromTop="16" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.Designer.cs" caret="0" fromTop="0" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:FrmWordBoggle.cs" caret="665" fromTop="20" />
+      <File id="B6813448-FCE2-429C-81B5-9722FEA839B8/f:MathEvaluator.cs" caret="7125" fromTop="0" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:CheckedWords.cs" caret="1224" fromTop="32" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="13213" fromTop="40" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.cs" caret="1712" fromTop="41" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:FormBoggleParent.cs" caret="9911" fromTop="27" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="48" fromTop="1" />
+      <File id="C6191038-B9F6-46BE-9239-4550B2E08D05/f:AssemblyInfo.cs" caret="584" fromTop="16" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="13629" fromTop="26" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.cs" caret="1452" fromTop="30" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.cs" caret="1381" fromTop="29" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.cs" caret="2367" fromTop="29" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:frmNumberBoggle.cs" caret="1624" fromTop="32" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="11100" fromTop="15" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="11000" fromTop="8" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="11732" fromTop="22" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="12466" fromTop="36" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="8065" fromTop="15" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="2062" fromTop="27" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="2756" fromTop="36" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="2964" fromTop="43" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="12935" fromTop="20" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="745" fromTop="19" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:CheckedWords.cs" caret="373" fromTop="11" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="2559" fromTop="27" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:CheckedWords.cs" caret="935" fromTop="26" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:CheckedWords.cs" caret="1224" fromTop="32" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="4339" fromTop="41" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="4473" fromTop="46" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="4473" fromTop="44" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="14951" fromTop="32" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="4197" fromTop="30" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="14606" fromTop="26" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="14479" fromTop="22" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="14862" fromTop="30" />
+      <File id="C6959941-93CB-4CF1-9784-EC77843D0EBA/f:BoggleGridVals.cs" caret="13213" fromTop="40" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir>C:\Program Files\NUnit 2.5.10\bin\net-2.0\</NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="28" />
+      <Item value="class" priority="4" />
+      <Item value="int" priority="67" />
+      <Item value="private" priority="23" />
+      <Item value="Array`0" priority="5" />
+      <Item value="Random`0" priority="0" />
+      <Item value="new" priority="65" />
+      <Item value="Random" priority="0" />
+      <Item value="DateTime`0" priority="0" />
+      <Item value="rand" priority="4" />
+      <Item value="as" priority="4" />
+      <Item value="double" priority="7" />
+      <Item value="return" priority="58" />
+      <Item value="LoaderOptimization`0" priority="0" />
+      <Item value="for" priority="16" />
+      <Item value="rows_" priority="5" />
+      <Item value="cols_" priority="7" />
+      <Item value="values`0" priority="0" />
+      <Item value="Padding`0" priority="0" />
+      <Item value="SetValue`0" priority="1" />
+      <Item value="Number`0" priority="0" />
+      <Item value="i" priority="11" />
+      <Item value="digitr1c1" priority="0" />
+      <Item value="AllNums`0" priority="3" />
+      <Item value="AllNums" priority="0" />
+      <Item value="nums" priority="8" />
+      <Item value="values_" priority="3" />
+      <Item value="dgValues" priority="16" />
+      <Item value="DataGridViewColumn`0" priority="0" />
+      <Item value="DataGridViewColumn" priority="0" />
+      <Item value="dgvc" priority="3" />
+      <Item value="Math`0" priority="6" />
+      <Item value="progressBar1" priority="22" />
+      <Item value="DuplicateWaitObjectException`0" priority="1" />
+      <Item value="System" priority="10" />
+      <Item value="Timer`0" priority="5" />
+      <Item value="Timer" priority="1" />
+      <Item value="timer" priority="8" />
+      <Item value="timerFlash" priority="13" />
+      <Item value="Drawing" priority="4" />
+      <Item value="Color`0" priority="7" />
+      <Item value="if" priority="53" />
+      <Item value="color_" priority="1" />
+      <Item value="value" priority="21" />
+      <Item value="color" priority="0" />
+      <Item value="colour_" priority="0" />
+      <Item value="Colour" priority="1" />
+      <Item value="Console`0" priority="2" />
+      <Item value="false" priority="19" />
+      <Item value="else" priority="16" />
+      <Item value="true" priority="28" />
+      <Item value="txtCols" priority="4" />
+      <Item value="txtRows" priority="4" />
+      <Item value="Values`0" priority="0" />
+      <Item value="Rows" priority="6" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="test" priority="2" />
+      <Item value="is" priority="0" />
+      <Item value="null" priority="8" />
+      <Item value="Int32`0" priority="1" />
+      <Item value="out" priority="3" />
+      <Item value="bool" priority="27" />
+      <Item value="result" priority="3" />
+      <Item value="throw" priority="3" />
+      <Item value="InvalidDataException" priority="0" />
+      <Item value="string" priority="52" />
+      <Item value="MessageBox`0" priority="2" />
+      <Item value="TextBox`0" priority="0" />
+      <Item value="box" priority="1" />
+      <Item value="numudRows" priority="2" />
+      <Item value="numudCols" priority="6" />
+      <Item value="CheckIntValue`0" priority="0" />
+      <Item value="void" priority="3" />
+      <Item value="onestep" priority="1" />
+      <Item value="numTime" priority="2" />
+      <Item value="ConsoleColor`0" priority="0" />
+      <Item value="pnlflash" priority="6" />
+      <Item value="tflashstep" priority="1" />
+      <Item value="sound" priority="0" />
+      <Item value="foreach" priority="17" />
+      <Item value="row" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="DataGridViewRow`0" priority="1" />
+      <Item value="height" priority="0" />
+      <Item value="Windows" priority="0" />
+      <Item value="Forms" priority="0" />
+      <Item value="DataGridViewAutoSizeRowsMode`0" priority="0" />
+      <Item value="MaskInputRejectedEventArgs`0" priority="0" />
+      <Item value="toar" priority="0" />
+      <Item value="gbTarget" priority="1" />
+      <Item value="lblTarget" priority="1" />
+      <Item value="Form`0" priority="1" />
+      <Item value="number" priority="0" />
+      <Item value="word" priority="23" />
+      <Item value="Cols" priority="6" />
+      <Item value="NumberBoggleGridVals`0" priority="3" />
+      <Item value="Object`0" priority="0" />
+      <Item value="big" priority="2" />
+      <Item value="WordBoggleGridVals`0" priority="2" />
+      <Item value="Big" priority="3" />
+      <Item value="biggame" priority="0" />
+      <Item value="big_" priority="0" />
+      <Item value="max" priority="1" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="cubes" priority="6" />
+      <Item value="bigCubes" priority="0" />
+      <Item value="Clone`0" priority="2" />
+      <Item value="regularCubes" priority="0" />
+      <Item value="CopyTo`0" priority="1" />
+      <Item value="letterfromcube" priority="2" />
+      <Item value="whichcube" priority="2" />
+      <Item value="Length" priority="2" />
+      <Item value="remainingcubes" priority="2" />
+      <Item value="k" priority="0" />
+      <Item value="pos" priority="1" />
+      <Item value="cubestring" priority="0" />
+      <Item value="BoggleGridVals`0" priority="1" />
+      <Item value="gridvals" priority="0" />
+      <Item value="numRemainingCubes" priority="1" />
+      <Item value="FrmWordBoggle`0" priority="0" />
+      <Item value="isbig" priority="0" />
+      <Item value="protected" priority="31" />
+      <Item value="base" priority="0" />
+      <Item value="GridVals" priority="8" />
+      <Item value="DEFAULTROWSCOLS" priority="2" />
+      <Item value="decimal" priority="0" />
+      <Item value="Parent" priority="1" />
+      <Item value="SetupGrid`0" priority="1" />
+      <Item value="btnInstructions" priority="0" />
+      <Item value="abstract" priority="0" />
+      <Item value="override" priority="7" />
+      <Item value="res" priority="32" />
+      <Item value="FileStream`0" priority="0" />
+      <Item value="fs" priority="0" />
+      <Item value="var" priority="7" />
+      <Item value="val" priority="29" />
+      <Item value="String`0" priority="1" />
+      <Item value="InKeys`0" priority="0" />
+      <Item value="length" priority="4" />
+      <Item value="locations_" priority="8" />
+      <Item value="object" priority="0" />
+      <Item value="l1" priority="0" />
+      <Item value="IsNear`0" priority="0" />
+      <Item value="AreTouching`0" priority="0" />
+      <Item value="List" priority="34" />
+      <Item value="CheckNear`0" priority="2" />
+      <Item value="locations" priority="4" />
+      <Item value="usertext" priority="4" />
+      <Item value="DataException" priority="0" />
+      <Item value="substring" priority="2" />
+      <Item value="location" priority="10" />
+      <Item value="location2" priority="3" />
+      <Item value="locationclone" priority="10" />
+      <Item value="key1" priority="1" />
+      <Item value="Dictionary&lt;string,IList&lt;int[]&gt;&gt;" priority="1" />
+      <Item value="keyValuePair" priority="2" />
+      <Item value="List&lt;int[]&gt;" priority="4" />
+      <Item value="list" priority="11" />
+      <Item value="intse" priority="1" />
+      <Item value="newval" priority="1" />
+      <Item value="CheckAdjacent`0" priority="0" />
+      <Item value="NextTo`0" priority="2" />
+      <Item value="cloneDict`0" priority="0" />
+      <Item value="locationsclone" priority="6" />
+      <Item value="firstletter" priority="12" />
+      <Item value="txtWords" priority="5" />
+      <Item value="List&lt;List&lt;int[,]&gt;&gt;" priority="1" />
+      <Item value="tocheck" priority="3" />
+      <Item value="startingLocation" priority="4" />
+      <Item value="IFormatProvider`0" priority="0" />
+      <Item value="newlist" priority="1" />
+      <Item value="ArgumentException" priority="0" />
+      <Item value="List&lt;List&lt;int[]&gt;&gt;" priority="5" />
+      <Item value="T`0" priority="0" />
+      <Item value="IDisposable`0" priority="0" />
+      <Item value="TreeNode" priority="6" />
+      <Item value="parent_" priority="5" />
+      <Item value="children_" priority="3" />
+      <Item value="List&lt;TreeNode&lt;T&gt;&gt;" priority="0" />
+      <Item value="location_" priority="2" />
+      <Item value="value_" priority="0" />
+      <Item value="TreeNode`0" priority="6" />
+      <Item value="Head" priority="3" />
+      <Item value="head_" priority="1" />
+      <Item value="List&lt;Tree&gt;" priority="0" />
+      <Item value="Tree`0" priority="0" />
+      <Item value="Tree" priority="0" />
+      <Item value="IntPtr`0" priority="1" />
+      <Item value="Value" priority="2" />
+      <Item value="Location" priority="1" />
+      <Item value="tree" priority="4" />
+      <Item value="head" priority="1" />
+      <Item value="v" priority="0" />
+      <Item value="currentnode" priority="1" />
+      <Item value="cell" priority="2" />
+      <Item value="first" priority="0" />
+      <Item value="ConstructBranches`0" priority="0" />
+      <Item value="trees" priority="0" />
+      <Item value="lettertree" priority="0" />
+      <Item value="Children" priority="1" />
+      <Item value="NumChildren" priority="0" />
+      <Item value="loc1" priority="6" />
+      <Item value="curr" priority="3" />
+      <Item value="locs" priority="3" />
+      <Item value="GetLocations`0" priority="0" />
+      <Item value="treeNode" priority="0" />
+      <Item value="Dictionary" priority="1" />
+      <Item value="Dictionary&lt;string,List&lt;List&lt;int[]&gt;&gt;&gt;" priority="0" />
+      <Item value="correct" priority="3" />
+      <Item value="matchinglocations" priority="0" />
+      <Item value="correctsequences" priority="2" />
+      <Item value="btnValidate" priority="5" />
+      <Item value="dgvCheckWords" priority="3" />
+      <Item value="Locations" priority="2" />
+      <Item value="loc" priority="2" />
+      <Item value="CheckedWords`0" priority="3" />
+      <Item value="Word" priority="0" />
+      <Item value="Matched" priority="0" />
+      <Item value="match" priority="1" />
+      <Item value="Verified" priority="2" />
+      <Item value="List&lt;CheckedWords&gt;" priority="0" />
+      <Item value="CheckedWords" priority="1" />
+      <Item value="e" priority="4" />
+      <Item value="dgvCheckWords_CellClick`0" priority="0" />
+      <Item value="paintlocations_" priority="4" />
+      <Item value="selectedword" priority="0" />
+      <Item value="selectedword_" priority="5" />
+      <Item value="selectedlocation_" priority="4" />
+      <Item value="coords" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="clonedlists" priority="1" />
+      <Item value="l" priority="0" />
+      <Item value="remainingletters" priority="1" />
+      <Item value="Queryable`0" priority="0" />
+      <Item value="remainder" priority="6" />
+      <Item value="GetFirstLetter`0" priority="3" />
+      <Item value="NotImplementedException" priority="0" />
+      <Item value="ColorDepth`0" priority="0" />
+      <Item value="prepareToCheckWords`0" priority="0" />
+      <Item value="virtual" priority="2" />
+      <Item value="str" priority="1" />
+      <Item value="Alphabet" priority="0" />
+      <Item value="char" priority="0" />
+      <Item value="num" priority="0" />
+      <Item value="MathEvaluator" priority="0" />
+      <Item value="eval" priority="0" />
+      <Item value="target_" priority="1" />
+      <Item value="indictionary" priority="3" />
+      <Item value="ingrid" priority="1" />
+      <Item value="MatchesTarget" priority="0" />
+      <Item value="indict" priority="0" />
+      <Item value="StreamReader" priority="1" />
+      <Item value="sr" priority="4" />
+      <Item value="while" priority="0" />
+      <Item value="List&lt;string&gt;" priority="2" />
+      <Item value="readLine" priority="0" />
+      <Item value="dictionary_" priority="5" />
+      <Item value="LoadDictionary" priority="0" />
+      <Item value="EnglishDictionary" priority="0" />
+      <Item value="File`0" priority="2" />
+      <Item value="file" priority="2" />
+      <Item value="defaultLoc" priority="0" />
+      <Item value="Control`0" priority="0" />
+      <Item value="t" priority="0" />
+      <Item value="resetDGValuesColorWhite`0" priority="2" />
+      <Item value="timerpaintlocations_" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="type_" priority="4" />
+      <Item value="Type`0" priority="0" />
+      <Item value="verification_" priority="2" />
+      <Item value="verificationInstruction`0" priority="0" />
+      <Item value="float" priority="0" />
+      <Item value="StringBuilder" priority="0" />
+      <Item value="sb" priority="1" />
+      <Item value="WebRequest`0" priority="0" />
+      <Item value="InDictionaryDotCom`0" priority="0" />
+      <Item value="response" priority="3" />
+      <Item value="stream" priority="2" />
+      <Item value="XmlDocument" priority="0" />
+      <Item value="XmlReader`0" priority="3" />
+      <Item value="XmlTextReader`0" priority="0" />
+      <Item value="x" priority="2" />
+      <Item value="XmlUrlResolver`0" priority="0" />
+      <Item value="xml" priority="1" />
+      <Item value="streamReader" priority="0" />
+      <Item value="web" priority="2" />
+      <Item value="numresults" priority="0" />
+      <Item value="tmp" priority="1" />
+      <Item value="numdigs" priority="1" />
+      <Item value="newGame`0" priority="0" />
+      <Item value="getSkewedRandNum`0" priority="0" />
+      <Item value="skewedRandNum" priority="0" />
+      <Item value="returnval" priority="1" />
+      <Item value="ResolveEventArgs`0" priority="0" />
+      <Item value="s" priority="0" />
+      <Item value="upper" priority="0" />
+      <Item value="List&lt;char&gt;" priority="0" />
+      <Item value="backwards" priority="0" />
+      <Item value="scores" priority="2" />
+      <Item value="Dictionary&lt;int,int&gt;" priority="1" />
+      <Item value="Score" priority="0" />
+      <Item value="score" priority="2" />
+      <Item value="getscore`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Second" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="4" />
+      <Item value="NextDouble`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Round`0" priority="2" />
+      <Item value="IEEERemainder`0" priority="0" />
+      <Item value="Floor`0" priority="0" />
+      <Item value="Min`0" priority="2" />
+      <Item value="Abs`0" priority="0" />
+      <Item value="Pow`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Number">
+      <Item value="value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="1" />
+      <Item value="BackColor" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:AllNums">
+      <Item value="values`0" priority="1" />
+      <Item value="Cols" priority="2" />
+      <Item value="Rows" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Double">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridView">
+      <Item value="DataSource" priority="2" />
+      <Item value="Columns" priority="2" />
+      <Item value="Font" priority="1" />
+      <Item value="Rows" priority="4" />
+      <Item value="Height" priority="0" />
+      <Item value="Refresh`0" priority="3" />
+      <Item value="AutoSize" priority="0" />
+      <Item value="AutoSizeRowsMode" priority="0" />
+      <Item value="Visible" priority="0" />
+      <Item value="CellClick" priority="0" />
+      <Item value="ClearSelection`0" priority="1" />
+      <Item value="BackColor" priority="0" />
+      <Item value="BackgroundColor" priority="0" />
+      <Item value="Select`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumnCollection">
+      <Item value="Add`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewColumn">
+      <Item value="Name" priority="0" />
+      <Item value="HeaderText" priority="1" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Font">
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ProgressBar">
+      <Item value="PerformStep`0" priority="0" />
+      <Item value="Step" priority="0" />
+      <Item value="Value" priority="3" />
+      <Item value="BackColor" priority="1" />
+      <Item value="Refresh`0" priority="0" />
+      <Item value="Maximum" priority="1" />
+      <Item value="Increment`0" priority="0" />
+      <Item value="ForeColor" priority="2" />
+      <Item value="ForeColorChanged" priority="0" />
+      <Item value="Visible" priority="6" />
+      <Item value="Invalidate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Interval" priority="4" />
+      <Item value="Start`0" priority="4" />
+      <Item value="Tick" priority="2" />
+      <Item value="Stop`0" priority="9" />
+      <Item value="Enabled" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="DarkViolet" priority="2" />
+      <Item value="ForestGreen" priority="0" />
+      <Item value="OrangeRed" priority="0" />
+      <Item value="DarkRed" priority="0" />
+      <Item value="White" priority="1" />
+      <Item value="Orange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Beep`0" priority="0" />
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="6" />
+      <Item value="TextChanged" priority="0" />
+      <Item value="Undo`0" priority="0" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Lines" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="TryParse`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.NumericUpDown">
+      <Item value="Value" priority="8" />
+      <Item value="ValueChanged" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:numberBoggle.AllNums">
+      <Item value="Cols" priority="1" />
+      <Item value="Rows" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Panel">
+      <Item value="BackColor" priority="0" />
+      <Item value="Refresh`0" priority="2" />
+      <Item value="Visible" priority="1" />
+      <Item value="ResetForeColor`0" priority="0" />
+      <Item value="ResetBackColor`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRowCollection">
+      <Item value="GetRowsHeight`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DataGridViewAutoSizeRowsMode">
+      <Item value="None" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Visible" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Show`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Substring`0" priority="26" />
+      <Item value="ToUpper`0" priority="6" />
+      <Item value="Length" priority="18" />
+      <Item value="First`1" priority="0" />
+      <Item value="Count`1" priority="0" />
+      <Item value="Split`0" priority="1" />
+      <Item value="ToCharArray`0" priority="0" />
+      <Item value="IndexOf`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.FormBoggleParent">
+      <Item value="InitializeComponent`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="OpenWrite`0" priority="0" />
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="1" />
+      <Item value="Add`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Remove`0" priority="3" />
+      <Item value="CopyTo`0" priority="0" />
+      <Item value="Add`0" priority="0" />
+      <Item value="Contains`0" priority="0" />
+      <Item value="Count" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="0" />
+      <Item value="Value" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.TreeNode`1">
+      <Item value="Dispose`0" priority="0" />
+      <Item value="Children" priority="1" />
+      <Item value="children_" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Remove`0" priority="0" />
+      <Item value="Contains`0" priority="3" />
+      <Item value="Add`0" priority="12" />
+      <Item value="Count" priority="9" />
+      <Item value="Distinct`1" priority="1" />
+      <Item value="ToArray`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.Tree">
+      <Item value="Head" priority="0" />
+      <Item value="AllLocations`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Concat`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.TreeNode">
+      <Item value="Location" priority="2" />
+      <Item value="IsLeaf" priority="0" />
+      <Item value="NumChildren" priority="1" />
+      <Item value="Children" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="Count`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Visible" priority="1" />
+      <Item value="Text" priority="1" />
+      <Item value="Enabled" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.BoggleGridVals">
+      <Item value="Verified" priority="3" />
+      <Item value="Rows" priority="0" />
+      <Item value="Cols" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="Cells" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCell">
+      <Item value="Style" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellStyle">
+      <Item value="BackColor" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewCellEventArgs">
+      <Item value="RowIndex" priority="5" />
+      <Item value="ColumnIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Boggle.CheckedWords">
+      <Item value="Locations" priority="1" />
+      <Item value="Matched" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Split`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LoreSoft.MathExpressions.MathEvaluator">
+      <Item value="Evaluate`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamReader">
+      <Item value="EndOfStream" priority="0" />
+      <Item value="ReadLine`0" priority="0" />
+      <Item value="ReadToEnd`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="Append`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Net.WebRequest">
+      <Item value="Create`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.HttpWebResponse">
+      <Item value="GetResponseStream`0" priority="1" />
+      <Item value="ResponseUri" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="EndRead`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlReader">
+      <Item value="Depth" priority="1" />
+      <Item value="ReadContentAsString`0" priority="0" />
+      <Item value="GetAttribute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlUrlResolver">
+      <Item value="ResolveUri`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Uri">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

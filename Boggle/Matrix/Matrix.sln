@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Matrix", "Matrix\Matrix.csproj", "{C51EB82A-6AC7-4850-B23D-D44532807BFE}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mommo.Data", "Mommo.Data\Mommo.Data.csproj", "{C6191038-B9F6-46BE-9239-4550B2E08D05}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C51EB82A-6AC7-4850-B23D-D44532807BFE}.Debug.ActiveCfg = Debug|.NET
+		{C51EB82A-6AC7-4850-B23D-D44532807BFE}.Debug.Build.0 = Debug|.NET
+		{C51EB82A-6AC7-4850-B23D-D44532807BFE}.Release.ActiveCfg = Release|.NET
+		{C51EB82A-6AC7-4850-B23D-D44532807BFE}.Release.Build.0 = Release|.NET
+		{C6191038-B9F6-46BE-9239-4550B2E08D05}.Debug.ActiveCfg = Debug|.NET
+		{C6191038-B9F6-46BE-9239-4550B2E08D05}.Debug.Build.0 = Debug|.NET
+		{C6191038-B9F6-46BE-9239-4550B2E08D05}.Release.ActiveCfg = Release|.NET
+		{C6191038-B9F6-46BE-9239-4550B2E08D05}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

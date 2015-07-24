@@ -1,0 +1,16 @@
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\Boggle.exe
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\Boggle.pdb
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\Mommo.Data.dll
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.FormBoggleParent.resources
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.FrmChooseGame.resources
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.FrmNumberBoggle.resources
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.FrmWordBoggle.resources
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.Properties.Resources.resources
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.exe
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\obj\x86\Release\Boggle.pdb
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\LoreSoft.MathExpressions.dll
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\LoreSoft.MathExpressions.pdb
+D:\Docs\personal\personalSVN\code\Boggle\numberBoggle\bin\Release\LoreSoft.MathExpressions.xml

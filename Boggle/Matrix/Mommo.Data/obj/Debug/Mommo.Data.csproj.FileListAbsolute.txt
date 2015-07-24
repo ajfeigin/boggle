@@ -1,0 +1,15 @@
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.dll
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.pdb
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Mommo.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.dll
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.pdb
+D:\Docs\Visual Studio 2010\Projects\Boggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.dll
+D:\Docs\Visual Studio 2010\Projects\Boggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.pdb
+D:\Docs\Visual Studio 2010\Projects\Boggle\Matrix\Mommo.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\Visual Studio 2010\Projects\Boggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.dll
+D:\Docs\Visual Studio 2010\Projects\Boggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.pdb
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.dll
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\bin\Debug\Mommo.Data.pdb
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\obj\Debug\ResolveAssemblyReference.cache
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.dll
+D:\Docs\personal\personalSVN\code\Boggle\Matrix\Mommo.Data\obj\Debug\Mommo.Data.pdb

@@ -1,0 +1,12 @@
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\numberBoggle.Properties.Resources.resources
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\GenerateResource.read.1.tlog
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\GenerateResource.write.1.tlog
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\bin\Debug\numberBoggle.exe
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\bin\Debug\numberBoggle.pdb
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\numberBoggle.exe
+d:\docs\visual studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\numberBoggle.pdb
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\numberBoggle\bin\Debug\Mommo.Data.dll
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\numberBoggle\bin\Debug\Mommo.Data.pdb
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\numberBoggle.frmNumberBoggle.resources
+D:\Docs\Visual Studio 2010\Projects\numberBoggle\numberBoggle\obj\x86\Debug\numberBoggle.FrmChooseGame.resources
